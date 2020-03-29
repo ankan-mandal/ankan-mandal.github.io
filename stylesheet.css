@@ -59,6 +59,7 @@ hr{border:1px solid; border-style: dotted; border-width: 6px 0 0;
 @media (max-width: 991px){
 	.img-profile{
 	width:160px;
+	height:160px;
 	margin-left: 0; 
 }
 .logo{width:30px;}
