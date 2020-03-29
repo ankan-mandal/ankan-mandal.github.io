@@ -9,6 +9,7 @@ html body{
 .head-top{
 	    border-bottom: 1px solid #eaeaea;
 	    margin-bottom:160px;
+	    width: 100%;
 }
 .btn{
 	padding-right:30px;
